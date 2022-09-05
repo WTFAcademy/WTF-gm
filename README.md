@@ -129,7 +129,7 @@ ngmi：Not ganna make it，不会成功的。
 
 Noob：菜鸡。
 
-Nounce：与以太坊交易相关的一个数字，每笔交易都会增加一个，每个nounce只能使用一次。
+Nonce：与以太坊交易相关的一个数字，每笔交易都会增加一个，每个nonce只能使用一次。
 
 ## O
 OG：Original Gangster，元老。

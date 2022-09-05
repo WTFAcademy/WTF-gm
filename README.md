@@ -11,6 +11,8 @@ alpha：超额收益机会。
 
 AMA：Ask Me Anything，项目方面向公众的问答会。
 
+AMM：Autonomous Market Making，自动化做市商，是去中心化交易所的常用技术。
+
 ape：梭哈。
 
 ATH：All Time Hight，历史最高价。

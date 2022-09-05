@@ -1,2 +1,2 @@
-# WTFGM
+# WTFgm
 Web3黑话

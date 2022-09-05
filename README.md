@@ -186,13 +186,15 @@ wagmi：We are gonna make it，我们会成功的。也是一个Web3常用的rea
 
 wallet：钱包。
 
-whale：鲸鱼，持有大量资金/筹码的人。
-
 web3.0：以去中心化和数字所有权为特征的互联网，与Web1.0和Web2.0不同。
 
 wen：when，什么时候。
 
 WETH：Wrapped Ethereum，ERC20标准的以太坊代币化版本。
+
+whale：鲸鱼，持有大量资金/筹码的人。
+
+WL：While List，白名单。
 
 ## Z
 zk：zero-knowledge proof，零知识证明，可以证明一个人拥有某个秘密，但不用泄露秘密本身。

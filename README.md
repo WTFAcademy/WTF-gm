@@ -1,2 +1,1 @@
-# WTFgm
-Web3黑话
+# WTF gm：Web3黑话教程

@@ -109,16 +109,16 @@ liquidity：流动性。
 ## M
 maxi：maximalist，极端主义者。
 
-Mempool：交易缓冲池，在交易被发出但未上链的时候，会出现在这里。
+meme：谜因/梗，可以传播的东西。
 
-MEV：Miner Extractable Value 或 Maximal Extractable Value，指矿工通过在一个区块中包含、排除或重新排序交易可以获得的利润。
+Mempool：交易缓冲池，在交易被发出但未上链的时候，会出现在这里。
 
 Merkle Tree：区块链用于安全验证和汇总大型数据集的数据结构。
 
+MEV：Miner Extractable Value 或 Maximal Extractable Value，指矿工通过在一个区块中包含、排除或重新排序交易可以获得的利润。
+
 Mint：薄荷，铸造NFT。
 
-## M
-meme：谜因/梗，可以传播的东西。
 
 ## N
 nfa：Not Financial Advice，不是投资建议。

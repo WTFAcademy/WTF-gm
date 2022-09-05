@@ -50,6 +50,8 @@ DID：Decentralized Identity，去中心化身份。
 
 discord：社群常用的信息传播平台。
 
+dm：direct message，私信。
+
 DYOR：Do Your Own Research，自己研究，自己负责。
 
 ## E

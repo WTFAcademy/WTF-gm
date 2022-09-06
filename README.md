@@ -20,7 +20,7 @@ ATH：All Time Hight，历史最高价。
 ## B
 Blockchain：区块链。
 
-Brige：跨链桥，连接不同公链上的资产的应用。
+Bridge：跨链桥，连接不同公链上的资产的应用。
 
 ## C
 CeFi：Centralized Finance，中心化金融。
@@ -37,6 +37,8 @@ Dapp：Decentralized Application，去中心化应用。
 DeFi：Decentralized Finance，去中心化金融。
 
 degen：degenerate，赌徒/梭哈的人。
+
+delist：下架。
 
 DeSci：Decentralized Science，去中心化科学。
 
@@ -55,7 +57,6 @@ dm：direct message，私信。
 DYOR：Do Your Own Research，自己研究，自己负责。
 
 ## E
-delist：下架。
 
 EOA：Externally Owned Accounts，以太坊网络中的个人用户，而非智能合约地址。
 
@@ -104,6 +105,8 @@ layer2：建立在现有公链上的二层框架，通常会有更快更便宜�
 
 LFG：Let's Fucking Go！冲！梭哈！
 
+LGTM: Looks good to me 我看行
+
 liquidity：流动性。
 
 ## M
@@ -117,8 +120,9 @@ Merkle Tree：区块链用于安全验证和汇总大型数据集的数据结构
 
 MEV：Miner Extractable Value 或 Maximal Extractable Value，指矿工通过在一个区块中包含、排除或重新排序交易可以获得的利润。
 
-Mint：薄荷，铸造NFT。
+Mint：铸造 NFT/ERC20
 
+Moon: to the moon, 暴涨
 
 ## N
 nfa：Not Financial Advice，不是投资建议。
@@ -140,6 +144,8 @@ off-chain：链下，不上链。
 
 optimistic rollups：乐观汇总，一种以太坊layer2解决方案。
 
+oracle：预言机
+
 ## P
 paper hands：纸手，钻石手的反义词。
 
@@ -154,7 +160,7 @@ prolly nothing：Probbably Nothing，可能什么都不会发生，用于卖关�
 ## R
 ReFi：Regenerative Finance，可再生/可持续金融。
 
-rekt：完蛋了，破产了。
+rekt：wrecked, 完蛋了，破产了。
 
 roadmap：路线图（画大饼）。
 
@@ -175,6 +181,8 @@ solidity：以太坊上的编写智能合约的语言。
 Tokenomics：代币经济学。
 
 To The Moon：暴涨。
+
+tradfi: traditional finance, 主流金融体系
 
 TVL：Total Value Locked，协议中锁定的资金总价值。
 

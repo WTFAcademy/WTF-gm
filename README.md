@@ -214,3 +214,13 @@ WL：While List，白名单。
 
 ## Z
 zk：zero-knowledge proof，零知识证明，可以证明一个人拥有某个秘密，但不用泄露秘密本身。
+
+## WTF gm黑宝书贡献者
+<div align="center">
+  <h4 align="center">
+    贡献者是WTF学院的基石
+  </h4>
+  <a href="https://github.com/WTFAcademy/WTFgm/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=WTFAcademy/WTFgm" />
+  </a>
+</div>

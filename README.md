@@ -69,6 +69,8 @@ Ethereum：以太坊，一个去中心化的开源区块链网络，也是它的
 EVM：Ethereum Virtual Machine，以太坊虚拟机，是区块链开发人员用来在以太坊区块链上部署去中心化应用程序 (Dapp) 的软件应用程序。
 
 ## F
+fam：family 家人。
+
 floor price：地板价。
 
 fren：friend，朋友。
@@ -108,6 +110,8 @@ LFG：Let's Fucking Go！冲！梭哈！
 LGTM: Looks good to me 我看行
 
 liquidity：流动性。
+
+LMAO：laugh my ass off 笑死我了
 
 ## M
 maxi：maximalist，极端主义者。
@@ -164,6 +168,8 @@ rekt：wrecked, 完蛋了，破产了。
 
 roadmap：路线图（画大饼）。
 
+RT：Retweet 推特转发。
+
 rug：rug-pull，撤摊子/跑路/归零。
 
 ## S
@@ -176,6 +182,8 @@ shilling：推销。
 Smart Contracts：智能合约，在区块链上运行的一段代码。
 
 solidity：以太坊上的编写智能合约的语言。
+
+sweep floor：扫地板。
 
 ## T
 Tokenomics：代币经济学。

@@ -31,6 +31,8 @@ Cex：Centralized Exchange，中心化交易所。
 
 ctf：Capture The Flag，网络安全技术比赛。
 
+chad: 牛逼的人 (一般指男性)
+
 ## D
 DAO：Decentralized Autonomous Organization，去中心化自治组织。
 
@@ -73,6 +75,8 @@ Ethereum：以太坊，一个去中心化的开源区块链网络，也是它的
 EVM：Ethereum Virtual Machine，以太坊虚拟机，是区块链开发人员用来在以太坊区块链上部署去中心化应用程序 (Dapp) 的软件应用程序。
 
 ## F
+fam：family 家人。
+
 floor price：地板价。
 
 fren：friend，朋友。
@@ -81,7 +85,11 @@ Fomo：Fear of Missing Out，害怕踏空而盲目跟风。
 
 Fud：Fear, Uncertainty, and Doubt，抱怨。
 
-FYI(for your information): 供你参考
+
+FYI(for your information): 供你参考。
+
+Full Send: 全力以赴
+
 
 ## G
 gas：燃料，表示在区块链完成交易所需的计算工作量。
@@ -97,6 +105,8 @@ gas war：因为争抢热门项目而导致燃料飙升。
 gm：good morning，早安，类似web3中的“您吃了没？”。
 
 gn：good night，晚安。
+
+gg: good game
 
 ## H
 hacked：被黑客攻击了。
@@ -116,6 +126,8 @@ LFG：Let's Fucking Go！冲！梭哈！
 LGTM: Looks good to me 我看行
 
 liquidity：流动性。
+
+LMAO：laugh my ass off 笑死我了
 
 ## M
 maxi：maximalist，极端主义者。
@@ -172,6 +184,8 @@ rekt：wrecked, 完蛋了，破产了。
 
 roadmap：路线图（画大饼）。
 
+RT：Retweet 推特转发。
+
 rug：rug-pull，撤摊子/跑路/归零。
 
 ## S
@@ -184,6 +198,10 @@ shilling：推销。
 Smart Contracts：智能合约，在区块链上运行的一段代码。
 
 solidity：以太坊上的编写智能合约的语言。
+
+sweep floor：扫地板。
+
+Send it: 懂了，支持
 
 ## T
 Tokenomics：代币经济学。
@@ -214,3 +232,13 @@ WL：While List，白名单。
 
 ## Z
 zk：zero-knowledge proof，零知识证明，可以证明一个人拥有某个秘密，但不用泄露秘密本身。
+
+## WTF gm黑宝书贡献者
+<div align="center">
+  <h4 align="center">
+    贡献者是WTF学院的基石
+  </h4>
+  <a href="https://github.com/WTFAcademy/WTFgm/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=WTFAcademy/WTFgm" />
+  </a>
+</div>

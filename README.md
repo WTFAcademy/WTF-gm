@@ -29,6 +29,8 @@ Cex：Centralized Exchange，中心化交易所。
 
 ctf：Capture The Flag，网络安全技术比赛。
 
+chad: 牛逼的人 (一般指男性)
+
 ## D
 DAO：Decentralized Autonomous Organization，去中心化自治组织。
 
@@ -79,6 +81,8 @@ Fomo：Fear of Missing Out，害怕踏空而盲目跟风。
 
 Fud：Fear, Uncertainty, and Doubt，抱怨。
 
+Full Send: 全力以赴
+
 ## G
 gas：燃料，表示在区块链完成交易所需的计算工作量。
 
@@ -93,6 +97,8 @@ gas war：因为争抢热门项目而导致燃料飙升。
 gm：good morning，早安，类似web3中的“您吃了没？”。
 
 gn：good night，晚安。
+
+gg: good game
 
 ## H
 hacked：被黑客攻击了。
@@ -184,6 +190,8 @@ Smart Contracts：智能合约，在区块链上运行的一段代码。
 solidity：以太坊上的编写智能合约的语言。
 
 sweep floor：扫地板。
+
+Send it: 懂了，支持
 
 ## T
 Tokenomics：代币经济学。

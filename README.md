@@ -22,6 +22,8 @@ Blockchain：区块链。
 
 Bridge：跨链桥，连接不同公链上的资产的应用。
 
+Buy the fucking dip: 抄底。
+
 ## C
 CeFi：Centralized Finance，中心化金融。
 
@@ -58,6 +60,8 @@ dm：direct message，私信。
 
 DYOR：Do Your Own Research，自己研究，自己负责。
 
+Due diligence: 尽职调查。
+
 ## E
 
 EOA：Externally Owned Accounts，以太坊网络中的个人用户，而非智能合约地址。
@@ -81,7 +85,11 @@ Fomo：Fear of Missing Out，害怕踏空而盲目跟风。
 
 Fud：Fear, Uncertainty, and Doubt，抱怨。
 
+
+FYI(for your information): 供你参考。
+
 Full Send: 全力以赴
+
 
 ## G
 gas：燃料，表示在区块链完成交易所需的计算工作量。
@@ -107,6 +115,8 @@ HODL：hold，钻石手，长期持有。
 
 ## I
 IRL：In Real Life，现实生活中。
+
+ifykyk: 懂得都懂
 
 ## L
 layer2：建立在现有公链上的二层框架，通常会有更快更便宜的交易、更多的存储空间。

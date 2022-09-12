@@ -90,6 +90,8 @@ FYI(for your information): 供你参考。
 
 Full Send: 全力以赴
 
+flash loan: 闪电贷。在同一笔交易内完成借款和还款，常用于套利。
+
 
 ## G
 gas：燃料，表示在区块链完成交易所需的计算工作量。

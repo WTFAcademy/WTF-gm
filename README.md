@@ -15,7 +15,7 @@ AMM：Autonomous Market Making，自动化做市商，是去中心化交易所�
 
 ape：梭哈。
 
-ATH：All Time Hight，历史最高价。
+ATH：All Time High，历史最高的价格。
 
 ## B
 Blockchain：区块链。

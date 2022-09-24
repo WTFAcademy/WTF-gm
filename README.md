@@ -85,7 +85,7 @@ fren：friend，朋友。
 
 Fomo：Fear of Missing Out，害怕踏空而盲目跟风。
 
-Fud：Fear, Uncertainty, and Doubt，抱怨。
+FUD：Fear, Uncertainty, and Doubt，抱怨。
 
 
 FYI(for your information): 供你参考。

@@ -33,7 +33,7 @@ Cex：Centralized Exchange，中心化交易所。
 
 ctf：Capture The Flag，网络安全技术比赛。
 
-chad: 牛逼的人 (一般指男性)
+chad: 牛逼的人 。(一般指男性)
 
 ## D
 DAO：Decentralized Autonomous Organization，去中心化自治组织。
@@ -112,7 +112,7 @@ gm：good morning，早安，类似web3中的“您吃了没？”。
 
 gn：good night，晚安。
 
-gg: good game
+gg: good game。
 
 ## H
 hacked：被黑客攻击了。
@@ -122,23 +122,23 @@ HODL：hold on dear love，钻石手，长期持有。
 ## I
 IRL：In Real Life，现实生活中。
 
-ifykyk: 懂得都懂
+ifykyk: 懂得都懂。
 
-ICO: Initial Coin Offering 首次代币发行
+ICO: Initial Coin Offering 首次代币发行。
 
 ## L
 layer2：建立在现有公链上的二层框架，通常会有更快更便宜的交易、更多的存储空间。
 
 LFG：Let's Fucking Go！冲！梭哈！
 
-LGTM: Looks good to me 我看行
+LGTM: Looks good to me， 我看行。
 
 liquidity：流动性。
 
 LMAO：laugh my ass off 笑死我了
 
 ## M
-maxi：maximalist，极端主义者。
+maxi：maximalist， 极端主义者。
 
 meme：谜因/梗，可以传播的东西。
 
@@ -148,9 +148,9 @@ Merkle Tree：区块链用于安全验证和汇总大型数据集的数据结构
 
 MEV：Miner Extractable Value 或 Maximal Extractable Value，指矿工通过在一个区块中包含、排除或重新排序交易可以获得的利润。
 
-Mint：铸造 NFT/ERC20
+Mint：铸造 NFT/ERC20。
 
-Moon: to the moon, 暴涨
+Moon: to the moon, 暴涨。
 
 ## N
 nfa：Not Financial Advice，不是投资建议。
@@ -161,7 +161,7 @@ ngmi：Not ganna make it，不会成功的。
 
 Noob：菜鸡。
 
-Nonce：在以太坊的发送的transaction种，它的含义是与以太坊交易相关的一个数字，每笔交易都会增加一个，每个nonce只能使用一次。（注意在不同的环境中，nonce的意思会不同）
+Nonce：在以太坊的发送的transaction中，它的含义是与以太坊交易相关的一个数字，每笔交易nonce都会增加1，每个nonce只能使用一次。这是为了避免交易的重复。（注意在不同的环境中，nonce的意思会不同，在比如，在比特币中的nonce的含义就完全不相同）
 
 ## O
 OG：Original Gangster，元老。
@@ -172,7 +172,7 @@ off-chain：链下，不上链。
 
 optimistic rollups：乐观汇总，一种以太坊layer2解决方案。
 
-oracle：预言机
+oracle：预言机， 把信息通过去中心化的方式转到链上， 通过保证传入信息的去中心化程度和准确性， 从而保持该Dapp的去中心化程度。
 
 ## P
 paper hands：纸手，钻石手的反义词。

@@ -24,7 +24,7 @@ Bridge：跨链桥，连接不同公链上的资产的应用。
 
 Buy the fucking dip: 抄底。
 
-Beeple: 数字艺术家，他出售的NFT“[Everydays - The First 5000 Days](https://en.wikipedia.org/wiki/Everydays:_the_First_5000_Days)”被6900万美元购买。
+Beeple: 数字艺术家，他出售的NFT “[Everydays - The First 5000 Days](https://en.wikipedia.org/wiki/Everydays:_the_First_5000_Days)” 以价格6900万美元被购买。
 
 ## C
 CeFi：Centralized Finance，中心化金融。

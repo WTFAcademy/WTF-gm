@@ -161,7 +161,7 @@ ngmi：Not ganna make it，不会成功的。
 
 Noob：菜鸡。
 
-Nonce：与以太坊交易相关的一个数字，每笔交易都会增加一个，每个nonce只能使用一次。
+Nonce：在以太坊的发送的transaction种，它的含义是与以太坊交易相关的一个数字，每笔交易都会增加一个，每个nonce只能使用一次。（注意在不同的环境中，nonce的意思会不同）
 
 ## O
 OG：Original Gangster，元老。

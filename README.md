@@ -232,7 +232,7 @@ WETH：Wrapped Ethereum，ERC20标准的以太坊代币化版本。
 
 whale：鲸鱼，持有大量资金/筹码的人。
 
-WL：While List，白名单。
+WL：White List，白名单。
 
 ## Z
 zk：zero-knowledge proof，零知识证明，可以证明一个人拥有某个秘密，但不用泄露秘密本身。

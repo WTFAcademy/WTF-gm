@@ -212,8 +212,6 @@ Send it: 懂了，支持
 ## T
 Tokenomics：代币经济学。
 
-To The Moon：暴涨。
-
 tradfi: traditional finance, 主流金融体系
 
 TVL：Total Value Locked，协议中锁定的资金总价值。

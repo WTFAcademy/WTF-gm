@@ -75,6 +75,8 @@ Ethereum：以太坊，一个去中心化的开源区块链网络，也是它的
 EVM：Ethereum Virtual Machine，以太坊虚拟机，是区块链开发人员用来在以太坊区块链上部署去中心化应用程序 (Dapp) 的软件应用程序。
 
 ## F
+FT: fungible token，同质化代币。
+
 fam：family 家人。
 
 floor price：地板价。

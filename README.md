@@ -85,12 +85,12 @@ fren：friend，朋友。
 
 Fomo：Fear of Missing Out，害怕踏空而盲目跟风。
 
-FUD：Fear, Uncertainty, and Doubt，抱怨。
+FUD：Fear, Uncertainty, and Doubt，过分夸大的市场的消极信息。
 
 
 FYI(for your information): 供你参考。
 
-Full Send: 全力以赴
+Full Send: 全力以赴。
 
 flash loan: 闪电贷。在同一笔交易内完成借款和还款，常用于套利。
 
@@ -115,7 +115,7 @@ gg: good game
 ## H
 hacked：被黑客攻击了。
 
-HODL：hold，钻石手，长期持有。
+HODL：hold on dear love，钻石手，长期持有。
 
 ## I
 IRL：In Real Life，现实生活中。

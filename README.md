@@ -126,6 +126,12 @@ ifykyk: 懂得都懂。
 
 ICO: Initial Coin Offering 首次代币发行。
 
+IFO：Initial Fork Offering 首次分叉币发行。
+
+IEO：Initial Exchange Offering 首次交易币发行。
+
+IDO：Initial Digital Assets Offering 首次数字资产发行。
+
 ## L
 layer2：建立在现有公链上的二层框架，通常会有更快更便宜的交易、更多的存储空间。
 

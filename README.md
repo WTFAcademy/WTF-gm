@@ -126,6 +126,12 @@ ifykyk: 懂得都懂。
 
 ICO: Initial Coin Offering 首次代币发行。
 
+IFO：Initial Farm Offering 首次农场（质押）发行。
+
+IEO：Initial Exchange Offering 首次交易所发行（比如在币安交易所发行）。
+
+IDO：Initial DEX Assets Offering 首次去中心化交易所发行（比如在Pancakeswap上发行）。
+
 ## L
 layer2：建立在现有公链上的二层框架，通常会有更快更便宜的交易、更多的存储空间。
 

@@ -180,6 +180,8 @@ optimistic rollups：乐观汇总，一种以太坊layer2解决方案。
 
 oracle：预言机， 把信息通过去中心化的方式转到链上， 通过保证传入信息的去中心化程度和准确性， 从而保持该Dapp的去中心化程度。
 
+OAT：On-Chain Achievement Tokens，是一种可以代表出席证明或是成就证明的NFT。当你完成项目给出的任务或是符合条件，就可以获得OAT 徽章，证明你是项目活动的参与者。
+
 ## P
 paper hands：纸手，钻石手的反义词。
 

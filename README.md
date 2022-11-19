@@ -89,6 +89,7 @@ Fomo：Fear of Missing Out，害怕踏空而盲目跟风。
 
 FUD：Fear, Uncertainty, and Doubt，过分夸大的市场的消极信息。
 
+FDV：Fully Diluted Valuation，即“完全稀释估值”。
 
 FYI(for your information): 供你参考。
 
@@ -169,6 +170,8 @@ Noob：菜鸡。
 
 Nonce：在以太坊的发送的transaction中，它的含义是与以太坊交易相关的一个数字，每笔交易nonce都会增加1，每个nonce只能使用一次。这是为了避免交易的重复。（注意在不同的环境中，nonce的意思会不同，在比如，在比特币中的nonce的含义就完全不相同）
 
+ngl：not gonna lie，老实说
+
 ## O
 OG：Original Gangster，元老。
 
@@ -192,6 +195,8 @@ PoS：Proof of Stake，权益证明，参与者通过持仓质押维护区块链
 PoW：Proof of Work，工作量证明，参与者通过花费计算能力和能量维护区块链网络正常运行。
 
 prolly nothing：Probbably Nothing，可能什么都不会发生，用于卖关子。
+
+Pump and dump：拉盘砸盘，形容一个项目被严重控盘。
 
 ## R
 ReFi：Regenerative Finance，可再生/可持续金融。
@@ -225,6 +230,8 @@ Tokenomics：代币经济学。
 tradfi: traditional finance, 主流金融体系
 
 TVL：Total Value Locked，协议中锁定的资金总价值。
+
+tbh：to be honest，老实说。
 
 ## U
 Up Only：一直上涨（大家的美好愿望）。

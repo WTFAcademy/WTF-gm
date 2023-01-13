@@ -50,7 +50,7 @@ DeSci：Decentralized Science，去中心化科学。
 
 DeSoc：Decentralized Society，去中心化社会。
 
-DeX：Decentralized Exchange，去中心化交易所。
+DeX：Decentralized Exchange，去中心化交易所。列子：可以通过 [DefiLlama](https://defillama.com/protocols/Dexes) 找到完整的DEX列表
 
 Diamond hands：钻石手，长期持有代币/NFT的人。
 
@@ -141,6 +141,14 @@ LFG：Let's Fucking Go！冲！梭哈！
 LGTM: Looks good to me， 我看行。
 
 liquidity：流动性。
+
+LP token: liquidity Pool(LP) token 流动性资金池代币 列子：当用户给Uniswap/Curve 的某个资金池提供资金，会产生的一个收据凭证(可以是基础的ERC20，或者ERC 721 NFT for Uniswap V3) 
+
+LP farmer： 通过在不同的去中心化平台以提供流动性来赚取收益的一部分人。因为经常需要提取收益复投，所以以此自称
+
+Lending protocol: 允许用户存款以及借贷的平台。列子：可以通过 [DefiLlama](https://defillama.com/protocols/Lending) 找到完整的借贷列表
+
+Liquid staking protocol：允许用户质押资产，并且质押凭证可以自由交易。列子：stETH 可以通过 [DefiLlama](https://defillama.com/protocols/Liquid%20Staking) 找到完整列表
 
 LMAO：laugh my ass off 笑死我了
 
@@ -250,6 +258,11 @@ WETH：Wrapped Ethereum，ERC20标准的以太坊代币化版本。
 whale：鲸鱼，持有大量资金/筹码的人。
 
 WL：White List，白名单。
+
+## Y
+Yield protocol: 提供质押收益的平台 列子：Convex， 可以通过 [DefiLlama](https://defillama.com/protocols/Yield) 找到完整的列表
+Yield Aggregator:  通过存入质押凭证，平台能够自动复投收益 俗称机枪池。 列子： Yearn Finance 可以通过 [DefiLlama](https://defillama.com/protocols/Yield%20Aggregator) 找到完整的列表
+Yield-bearing Token： 随着时间的推移自行产生利息的代币。列子： stETH,SFRXETH 根据协议的不同，要区分清楚哪一个代币是自动生息
 
 ## Z
 zk：zero-knowledge proof，零知识证明，可以证明一个人拥有某个秘密，但不用泄露秘密本身。

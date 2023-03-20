@@ -11,11 +11,15 @@ alpha：超额收益机会。
 
 AMA：Ask Me Anything，项目方面向公众的问答会。
 
+ATA：Ask the Anything，AMA的另一种说法。
+
 AMM：Autonomous Market Making，自动化做市商，是去中心化交易所的常用技术。
 
 ape：梭哈。
 
 ATH：All Time High，历史最高的价格。
+
+APY：Annual Percentage Yield，年利率，DeFi项目中利率的一种常见方式，它表示一年中您所持有资产的预期收益率。
 
 ## B
 Blockchain：区块链。
@@ -25,6 +29,18 @@ Bridge：跨链桥，连接不同公链上的资产的应用。
 Buy the fucking dip: 抄底。
 
 Beeple: 数字艺术家，他出售的NFT “[Everydays - The First 5000 Days](https://en.wikipedia.org/wiki/Everydays:_the_First_5000_Days)” 以价格6900万美元被购买。
+
+BSC：Binance Smart Chain，Binance智能链，由中心化交易所Binance开发的基于以太坊的区块链网络。
+
+BEP，Binance Smart Chain上的代币标准，类似于ERC20。
+
+Block：区块，是区块链上的数据结构，用于记录交易和数据。
+
+Burn：销毁，指在加密资产发行和管理中，将代币永久性地从流通中移除。
+
+Bull：牛市，指加密货币价格上涨的市场环境。
+
+Bear：熊市，指加密货币价格下跌的市场环境。
 
 ## C
 CeFi：Centralized Finance，中心化金融。
@@ -63,6 +79,10 @@ dm：direct message，私信。
 DYOR：Do Your Own Research，自己研究，自己负责。
 
 Due diligence: 尽职调查。
+
+Dai：由MakerDAO发行的去中心化稳定币，价值与美元挂钩。
+
+Dydx：去中心化衍生品交易所，提供永续合约、期权和闪电贷款等服务。
 
 ## E
 
@@ -142,6 +162,8 @@ LGTM: Looks good to me， 我看行。
 
 liquidity：流动性。
 
+Liquidity mining: 流动性挖矿，指通过提供流动性来赚取代币的一种方式。
+
 LP token: liquidity Pool(LP) token 流动性资金池代币 列子：当用户给Uniswap/Curve 的某个资金池提供资金，会产生的一个收据凭证(可以是基础的ERC20，或者ERC 721 NFT for Uniswap V3) 
 
 LP farmer： 通过在不同的去中心化平台以提供流动性来赚取收益的一部分人。因为经常需要提取收益复投，所以以此自称
@@ -166,6 +188,10 @@ MEV：Miner Extractable Value 或 Maximal Extractable Value，指矿工通过在
 Mint：铸造 NFT/ERC20。
 
 Moon: to the moon, 暴涨。
+
+MakerDAO：去中心化稳定币平台。
+
+MEV：Miner Extractable Value，矿工可提取价值，指在以太坊上可以被矿工抢先打包的价值。
 
 ## N
 nfa：Not Financial Advice，不是投资建议。
@@ -231,6 +257,8 @@ solidity：以太坊上的编写智能合约的语言。
 sweep floor：扫地板。
 
 Send it: 懂了，支持
+
+Stablecoin：稳定币，价值与法币或其他资产挂钩的代币，如USDT。
 
 ## T
 Tokenomics：代币经济学。

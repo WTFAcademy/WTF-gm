@@ -19,6 +19,8 @@ ape：梭哈。
 
 ATH：All Time High，历史最高的价格。
 
+ATL： All Time Low,历史最低的价格。
+
 APY：Annual Percentage Yield，年利率，DeFi项目中利率的一种常见方式，它表示一年中您所持有资产的预期收益率。
 
 ## B
@@ -41,6 +43,8 @@ Burn：销毁，指在加密资产发行和管理中，将代币永久性地从�
 Bull：牛市，指加密货币价格上涨的市场环境。
 
 Bear：熊市，指加密货币价格下跌的市场环境。
+
+BearWhale: 看空的大户。
 
 ## C
 CeFi：Centralized Finance，中心化金融。
@@ -109,6 +113,8 @@ Fomo：Fear of Missing Out，害怕踏空而盲目跟风。
 
 FUD：Fear, Uncertainty, and Doubt，过分夸大的市场的消极信息。
 
+FED：The Federal Reserve 美联储。
+
 FDV：Fully Diluted Valuation，即“完全稀释估值”。
 
 FYI(for your information): 供你参考。
@@ -153,6 +159,9 @@ IEO：Initial Exchange Offering 首次交易所发行（比如在币安交易所
 
 IDO：Initial DEX Offering 首次去中心化交易所发行（比如在Pancakeswap上发行）。
 
+## K
+kyc: know your customer,是一种交易所审核客户的机制。
+
 ## L
 layer2：建立在现有公链上的二层框架，通常会有更快更便宜的交易、更多的存储空间。
 
@@ -173,6 +182,8 @@ Lending protocol: 允许用户存款以及借贷的平台。列子：可以通�
 Liquid staking protocol：允许用户质押资产，并且质押凭证可以自由交易。列子：stETH 可以通过 [DefiLlama](https://defillama.com/protocols/Liquid%20Staking) 找到完整列表
 
 LMAO：laugh my ass off 笑死我了
+
+Lambo: 兰博基尼，一般指某个大幅上涨的币。
 
 ## M
 maxi：maximalist， 极端主义者。
@@ -243,6 +254,8 @@ RT：Retweet 推特转发。
 
 rug：rug-pull，撤摊子/跑路/归零。
 
+ROI：Return on Investment,投资回报率。
+
 ## S
 Sandwich Attack：三明治攻击/夹子，攻击者会抢在受害者的大笔买入订单之前买入、提高价格，在受害者订单后下达卖单，赚取收益。
 
@@ -260,6 +273,10 @@ Send it: 懂了，支持
 
 Stablecoin：稳定币，价值与法币或其他资产挂钩的代币，如USDT。
 
+Shil: 骗子，为了一己私利去推广资金盘的人。
+
+SAFU：fund are safe，资金很安全。
+
 ## T
 Tokenomics：代币经济学。
 
@@ -269,8 +286,14 @@ TVL：Total Value Locked，协议中锁定的资金总价值。
 
 tbh：to be honest，老实说。
 
+To The Moon : 暴涨。
+
 ## U
 Up Only：一直上涨（大家的美好愿望）。
+
+## V
+
+Vaporware: 空气币。
 
 ## W
 wagmi：We are gonna make it，我们会成功的。也是一个Web3常用的react前端库的名字，包装了很多常用的hooks。

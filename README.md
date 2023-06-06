@@ -243,6 +243,8 @@ prolly nothing：Probbably Nothing，可能什么都不会发生，用于卖关�
 
 Pump and dump：拉盘砸盘，形容一个项目被严重控盘。
 
+phishing: 钓鱼网站。
+
 ## R
 ReFi：Regenerative Finance，可再生/可持续金融。
 
@@ -288,12 +290,16 @@ tbh：to be honest，老实说。
 
 To The Moon : 暴涨。
 
+tx: 交易(transaction)。
+
 ## U
 Up Only：一直上涨（大家的美好愿望）。
 
 ## V
 
 Vaporware: 空气币。
+
+victim: 受害者(指在某次web3安全事件中资产受损的群体)。
 
 ## W
 wagmi：We are gonna make it，我们会成功的。也是一个Web3常用的react前端库的名字，包装了很多常用的hooks。

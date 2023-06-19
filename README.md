@@ -17,13 +17,22 @@ AMM：Autonomous Market Making，自动化做市商，是去中心化交易所�
 
 ape：梭哈。
 
+Arbitrage：搬砖套利，跨平台赚取其中的差价，要快准狠 。
+
 ATH：All Time High，历史最高的价格。
 
 ATL： All Time Low,历史最低的价格。
 
+APR：Annual percent rate，年度百分比利率，是在考虑复利之前的年回报率。
+
 APY：Annual Percentage Yield，年利率，DeFi项目中利率的一种常见方式，它表示一年中您所持有资产的预期收益率。
 
+Approve: 中文意思:赞成:同意:批准。 顾名思义， 即授权的意思。 操作过DEX的用户经常能看到这个词。它允许持有token的用户，通过调用approve方法，授权给指定合约账户一定额度，
+
+Airdop: 空投, 即项目方免费赠送代币给你，目的是使人们进一步了解该币种。
 ## B
+BIP: Bitcoin Improvement Proposal- 比特币改进提案
+
 Blockchain：区块链。
 
 Bridge：跨链桥，连接不同公链上的资产的应用。
@@ -46,6 +55,8 @@ Bear：熊市，指加密货币价格下跌的市场环境。
 
 BearWhale: 看空的大户。
 
+Bounty Program: 赏金计划一由项目方分配的一些任务，任何人参加完成都可获得奖励
+
 ## C
 CeFi：Centralized Finance，中心化金融。
 
@@ -54,6 +65,8 @@ Cex：Centralized Exchange，中心化交易所。
 ctf：Capture The Flag，网络安全技术比赛。
 
 chad: 牛逼的人 。(一般指男性)
+
+Collateral: 指债务人提供作为偿债担保的资产。如果债务(货款或债券)到期时债务人无力偿还，债权人有权将抵押品变卖以抵补本息。
 
 ## D
 DAO：Decentralized Autonomous Organization，去中心化自治组织。
@@ -80,6 +93,8 @@ discord：社群常用的信息传播平台。
 
 dm：direct message，私信。
 
+DPoS：Delegated Proof of Stake，代理权益证明DPOS作为第三代的共识机制，保留了PoS节能的优点，并引入了代议民主的機念，透过减少节点的数量，除了能够达成比PoS更低的能耗，更是解决了Po与POS其中一个痛点一交易确认的时间过长的问题
+
 DYOR：Do Your Own Research，自己研究，自己负责。
 
 Due diligence: 尽职调查。
@@ -87,6 +102,8 @@ Due diligence: 尽职调查。
 Dai：由MakerDAO发行的去中心化稳定币，价值与美元挂钩。
 
 Dydx：去中心化衍生品交易所，提供永续合约、期权和闪电贷款等服务。
+
+Discord: 海外项目社群常用的社区社交/即时通讯平台。
 
 ## E
 
@@ -97,6 +114,8 @@ ERC20：以太坊上的同质化代币标准。
 ERC721：以太坊上的非同质化代币标准。
 
 Ethereum：以太坊，一个去中心化的开源区块链网络，也是它的原生代币名字。
+
+ETF: 全称为Exchange-Traded Fund，也叫做交型开放指数基金，作为一种投资品类，是非常成熟的金融衍生品，它的投资门槛比较低，交易操作简单等。
 
 EVM：Ethereum Virtual Machine，以太坊虚拟机，是区块链开发人员用来在以太坊区块链上部署去中心化应用程序 (Dapp) 的软件应用程序。
 

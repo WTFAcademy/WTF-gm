@@ -47,6 +47,10 @@ BEP，Binance Smart Chain上的代币标准，类似于ERC20。
 
 Block：区块，是区块链上的数据结构，用于记录交易和数据。
 
+Block Height: 区块高度，表示区块链中的区块数量。
+
+Block Reward: 区块奖励，矿工为验证交易和创建新区块所获得的奖励。
+
 Burn：销毁，指在加密资产发行和管理中，将代币永久性地从流通中移除。
 
 Bull：牛市，指加密货币价格上涨的市场环境。
@@ -57,7 +61,13 @@ BearWhale: 看空的大户。
 
 Bounty Program: 赏金计划一由项目方分配的一些任务，任何人参加完成都可获得奖励
 
+BUIDL: 来自"BUILD"的错字，鼓励开发者继续构建和创新，而不是仅仅为了短期利益而投资加密货币。
+
+Bytecode: 字节码，低级、与机器无关的代码，可以由虚拟机执行。
+
 ## C
+Crypto: 加密货币的简称。
+
 CeFi：Centralized Finance，中心化金融。
 
 Cex：Centralized Exchange，中心化交易所。
@@ -67,6 +77,10 @@ ctf：Capture The Flag，网络安全技术比赛。
 chad: 牛逼的人 。(一般指男性)
 
 Collateral: 指债务人提供作为偿债担保的资产。如果债务(货款或债券)到期时债务人无力偿还，债权人有权将抵押品变卖以抵补本息。
+
+Contract Address: 合约地址，智能合约在区块链上的地址。
+
+Chainlink: 一个去中心化的oracle网络，允许智能合约基于现实世界的数据来安全、可靠地运行。
 
 ## D
 DAO：Decentralized Autonomous Organization，去中心化自治组织。
@@ -105,6 +119,8 @@ Dydx：去中心化衍生品交易所，提供永续合约、期权和闪电贷�
 
 Discord: 海外项目社群常用的社区社交/即时通讯平台。
 
+Data Oracle: 数据预言机，为智能合约提供链下数据。
+
 ## E
 
 EOA：Externally Owned Accounts，以太坊网络中的个人用户，而非智能合约地址。
@@ -113,11 +129,17 @@ ERC20：以太坊上的同质化代币标准。
 
 ERC721：以太坊上的非同质化代币标准。
 
+EIP: Ethereum Improvement Proposal，以太坊的提案系统，旨在改进以太坊网络。
+
 Ethereum：以太坊，一个去中心化的开源区块链网络，也是它的原生代币名字。
+
+Ethereum 2.0: 以太坊的下一代升级，将采用权益证明（PoS）共识机制，带来各种性能和安全性的改进。
 
 ETF: 全称为Exchange-Traded Fund，也叫做交型开放指数基金，作为一种投资品类，是非常成熟的金融衍生品，它的投资门槛比较低，交易操作简单等。
 
 EVM：Ethereum Virtual Machine，以太坊虚拟机，是区块链开发人员用来在以太坊区块链上部署去中心化应用程序 (Dapp) 的软件应用程序。
+
+ENS: Ethereum Name Service，是以太坊上的一个去中心化域名服务。
 
 ## F
 FT: fungible token，同质化代币。
@@ -142,11 +164,17 @@ Full Send: 全力以赴。
 
 flash loan: 闪电贷。在同一笔交易内完成借款和还款，常用于套利。
 
+Fiat: 法定货币，如美元、人民币等。
+
+Fair Launch: 公平发布。它是一种没有预挖、预售或团队分配的代币分配方式，以确保项目的公平性。
+
 
 ## G
 gas：燃料，表示在区块链完成交易所需的计算工作量。
 
 gas fee：燃料费，表示在区块链完成交易所需的支付的以太坊费用。
+
+Gwei: 以太坊上的一个单位，1 Gwei = 0.000000001 ETH。
 
 gas limit：交易中燃料的最大消耗量。
 
@@ -160,10 +188,18 @@ gn：good night，晚安。
 
 gg: good game。
 
+Gasless Transactions: 一种允许用户无需支付燃料费就能进行交易的方法，通常通过元交易或第三方支付。
+
 ## H
 hacked：被黑客攻击了。
 
 HODL：hold on dear love，钻石手，长期持有。
+
+Hot Wallet: 热钱包，经常在线的钱包，相对于冷钱包更容易受到攻击。
+
+Hash: 一个数学函数，将输入（或“消息”）转化为一个固定大小的字符系列，这通常呈现为一个数字签名。
+
+Hard Fork: 硬分叉，是区块链上的一个重大改变，导致之前的规则与新的规则不兼容。
 
 ## I
 IRL：In Real Life，现实生活中。
@@ -178,8 +214,20 @@ IEO：Initial Exchange Offering 首次交易所发行（比如在币安交易所
 
 IDO：Initial DEX Offering 首次去中心化交易所发行（比如在Pancakeswap上发行）。
 
+IPFS: InterPlanetary File System，是一个去中心化的文件存储和获取协议。
+
+IV: Implied Volatility，隐含波动率，通常用于期权定价。
+
+ILO: Initial Liquidity Offering: 类似于IDO，但更加强调流动性提供。
+
 ## K
 kyc: know your customer,是一种交易所审核客户的机制。
+
+Key: 钥匙。在加密中通常指的是公钥或私钥，用于加密、解密或签名事务。
+
+Keystore: 是一个加密的文件，通常用于存储用户的私钥。
+
+KOL: Key Opinion Leader，关键意见领袖。通常指社交媒体或某一领域内的影响力人物。
 
 ## L
 layer2：建立在现有公链上的二层框架，通常会有更快更便宜的交易、更多的存储空间。
@@ -204,6 +252,16 @@ LMAO：laugh my ass off 笑死我了
 
 Lambo: 兰博基尼，一般指某个大幅上涨的币。
 
+Lightning Network: 一个建立在比特币上的二层解决方案，旨在提供即时、低费用的交易。
+
+Limit Order: 限价订单。这是一种指定价格购买或出售资产的命令。
+
+Long: 期望资产价格上涨而持有或购买该资产。
+
+Liquidity Pool: 流动性池。DeFi项目中，用户提供的资金的集合，以供其他用户交易。
+
+Liquidity Provider: 流动性提供者。在DeFi项目中，为流动性池提供资金的用户。
+
 ## M
 maxi：maximalist， 极端主义者。
 
@@ -223,6 +281,14 @@ MakerDAO：去中心化稳定币平台。
 
 MEV：Miner Extractable Value，矿工可提取价值，指在以太坊上可以被矿工抢先打包的价值。
 
+Metamask: 一个流行的以太坊和ERC-20代币钱包，同时也是一个浏览器扩展。
+
+Mainnet: 主网。一个加密货币项目的主要公共网络。
+
+Mining: 挖矿。通过解决数学问题来验证加密货币交易并创建新的代币的过程。
+
+Multichain: 多链。允许在多个区块链之间创建和执行智能合约的平台。
+
 ## N
 nfa：Not Financial Advice，不是投资建议。
 
@@ -236,6 +302,8 @@ Nonce：在以太坊的发送的transaction中，它的含义是与以太坊交�
 
 ngl：not gonna lie，老实说
 
+Node: 节点。在加密货币网络中，代表运行特定区块链的完整代码和数据的计算机。
+
 ## O
 OG：Original Gangster，元老。
 
@@ -248,6 +316,8 @@ optimistic rollups：乐观汇总，一种以太坊layer2解决方案。
 oracle：预言机， 把信息通过去中心化的方式转到链上， 通过保证传入信息的去中心化程度和准确性， 从而保持该Dapp的去中心化程度。
 
 OAT：On-Chain Achievement Tokens，是一种可以代表出席证明或是成就证明的NFT。当你完成项目给出的任务或是符合条件，就可以获得OAT 徽章，证明你是项目活动的参与者。
+
+OTC: Over The Counter, 场外交易。直接在两个当事人之间进行的交易，而不是在公开的交易所上。
 
 ## P
 paper hands：纸手，钻石手的反义词。
@@ -264,6 +334,19 @@ Pump and dump：拉盘砸盘，形容一个项目被严重控盘。
 
 phishing: 钓鱼网站。
 
+Private Key: 私钥。数字钱包中用于签署交易并验证所有权的加密密钥。
+
+Public Key: 公钥。与私钥配对使用，可以安全地接收资金。
+
+Peer-to-Peer (P2P): 点对点。指的是没有中央服务器的网络，每个参与者都是一个节点。
+
+Protocol: 协议。定义网络如何进行交互的规则。
+
+Pool: 矿池。一个组合了多个矿工计算能力的平台，以增加找到下一个块的机会。
+
+Portfolio: 投资组合。一个人所有的加密货币资产的集合。
+
+
 ## R
 ReFi：Regenerative Finance，可再生/可持续金融。
 
@@ -276,6 +359,12 @@ RT：Retweet 推特转发。
 rug：rug-pull，撤摊子/跑路/归零。
 
 ROI：Return on Investment,投资回报率。
+
+RWA (Real World Asset)：真实世界资产。指那些在区块链外部存在的，如房地产、股票或其他形式的资产。在DeFi中，RWA的概念是试图将这些现实中的资产带到区块链平台，从而获得流动性或其他形式的金融操作。
+
+Ring Signature: 环签名。一种加密签名，允许一个组的成员进行签名，但不会显示是哪个成员进行的签名。Monero加密货币使用这种技术以保持交易的匿名性。
+
+RPC (Remote Procedure Call): 远程过程调用。应用程序通常使用它与区块链节点进行通信。
 
 ## S
 Sandwich Attack：三明治攻击/夹子，攻击者会抢在受害者的大笔买入订单之前买入、提高价格，在受害者订单后下达卖单，赚取收益。
@@ -298,6 +387,18 @@ Shil: 骗子，为了一己私利去推广资金盘的人。
 
 SAFU：fund are safe，资金很安全。
 
+Staking: 质押。用户持有并锁定某些加密货币来支持区块链网络的操作，如验证交易，通常可以赚取奖励。
+
+Sidechain: 侧链。一个与主区块链平行的区块链，允许资产和其他信息在两个链之间转移。
+
+Swap: 在DeFi中，直接从一种加密货币兑换为另一种的操作。
+
+SEC: 美国证券交易委员会，经常参与与加密货币相关的监管活动。
+
+Soft Fork: 软分叉。一种区块链协议的升级方式，与之前的版本向后兼容。
+
+Slippage: 滑点。在交易加密货币时，预期价格与实际交易价格之间的差异。
+
 ## T
 Tokenomics：代币经济学。
 
@@ -311,14 +412,32 @@ To The Moon : 暴涨。
 
 tx: 交易(transaction)。
 
+Testnet: 测试网。与主网络（mainnet）相对，为开发者提供一个试验和测试新功能的环境，而不会影响主网络的运行。
+
+TA: Technical Analysis, 技术分析。一种预测未来市场价格方向的方法，基于历史价格数据和交易量。
+
+Token Burn: 代币销毁。为了减少代币的供应量，永久从流通中移除某些数量的代币。
+
+Two-Factor Authentication (2FA): 两步验证。一种增加账户安全性的方法，需要用户提供两种身份验证方式。
+
+Trustless: 无需信任。在区块链环境中，参与者不需要互相信任，因为系统的设计保证了透明性和不可篡改性。
+
 ## U
 Up Only：一直上涨（大家的美好愿望）。
+
+Uniswap: 一个流行的去中心化交易所（DEX），使用自动做市商（AMM）模型。
 
 ## V
 
 Vaporware: 空气币。
 
 victim: 受害者(指在某次web3安全事件中资产受损的群体)。
+
+Validator: 验证者。在权益证明（PoS）和其他共识机制中，负责验证和建立新区块的参与者。
+
+Volume: 成交量。在给定时间段内交易的资产总量。
+
+Volatility: 波动性。表示资产价格在短时间内上下波动的程度。
 
 ## W
 wagmi：We are gonna make it，我们会成功的。也是一个Web3常用的react前端库的名字，包装了很多常用的hooks。
@@ -335,6 +454,8 @@ whale：鲸鱼，持有大量资金/筹码的人。
 
 WL：White List，白名单。
 
+Wrapped Tokens: 封装的代币，如WETH。表示一种资产的代币化版本，常用于将非ERC20资产带到以太坊网络上。
+
 ## Y
 Yield protocol: 提供质押收益的平台 列子：Convex， 可以通过 [DefiLlama](https://defillama.com/protocols/Yield) 找到完整的列表
 Yield Aggregator:  通过存入质押凭证，平台能够自动复投收益 俗称机枪池。 列子： Yearn Finance 可以通过 [DefiLlama](https://defillama.com/protocols/Yield%20Aggregator) 找到完整的列表
@@ -342,6 +463,8 @@ Yield-bearing Token： 随着时间的推移自行产生利息的代币。列子
 
 ## Z
 zk：zero-knowledge proof，零知识证明，可以证明一个人拥有某个秘密，但不用泄露秘密本身。
+
+ZK-Rollups: 一种Layer-2扩展解决方案，使用零知识证明来扩大以太坊的处理能力。
 
 ## WTF gm黑宝书贡献者
 <div align="center">

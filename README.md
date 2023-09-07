@@ -456,6 +456,8 @@ WL：White List，白名单。
 
 Wrapped Tokens: 封装的代币，如WETH。表示一种资产的代币化版本，常用于将非ERC20资产带到以太坊网络上。
 
+WTF: What The Fuck，常用来表示震惊、困惑、不满或者惊讶的情感。在 Web3、加密货币或区块链社区中，由于技术和市场动态的快速变化，WTF 的场景可能会频繁出现。例如，当某个代币的价格突然大幅波动或出现意外的技术故障时，社区成员可能会使用"WTF"来表达自己的困惑或惊讶。例: [WTF Academy](https://github.com/WTFAcademy)
+
 ## Y
 Yield protocol: 提供质押收益的平台 列子：Convex， 可以通过 [DefiLlama](https://defillama.com/protocols/Yield) 找到完整的列表
 

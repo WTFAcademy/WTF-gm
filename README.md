@@ -458,7 +458,9 @@ Wrapped Tokens: 封装的代币，如WETH。表示一种资产的代币化版本
 
 ## Y
 Yield protocol: 提供质押收益的平台 列子：Convex， 可以通过 [DefiLlama](https://defillama.com/protocols/Yield) 找到完整的列表
+
 Yield Aggregator:  通过存入质押凭证，平台能够自动复投收益 俗称机枪池。 列子： Yearn Finance 可以通过 [DefiLlama](https://defillama.com/protocols/Yield%20Aggregator) 找到完整的列表
+
 Yield-bearing Token： 随着时间的推移自行产生利息的代币。列子： stETH,SFRXETH 根据协议的不同，要区分清楚哪一个代币是自动生息
 
 ## Z

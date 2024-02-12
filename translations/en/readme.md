@@ -38,7 +38,7 @@ Bridge: A connection between assets on different blockchains.
 
 Buy the fucking dip: Buy when prices are low.
 
-Beeple: A digital artist known for selling the NFT "Everydays - The First 5000 Days."
+Beeple: A digital artist known for selling the NFT “[Everydays - The First 5000 Days](https://en.wikipedia.org/wiki/Everydays:_the_First_5000_Days)”
 
 BSC: Binance Smart Chain, a blockchain network developed by Binance.
 

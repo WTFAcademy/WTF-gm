@@ -29,7 +29,7 @@ APY：Annual Percentage Yield，年利率，DeFi项目中利率的一种常见�
 
 Approve: 中文意思:赞成:同意:批准。 顾名思义， 即授权的意思。 操作过DEX的用户经常能看到这个词。它允许持有token的用户，通过调用approve方法，授权给指定合约账户一定额度，
 
-Airdop: 空投, 即项目方免费赠送代币给你，目的是使人们进一步了解该币种。
+Airdrop: 空投, 即项目方免费赠送代币给你，目的是使人们进一步了解该币种。
 ## B
 BIP: Bitcoin Improvement Proposal- 比特币改进提案
 

@@ -229,7 +229,10 @@ Keystore: An encrypted file used for storing a user's private keys.
 KOL: Key Opinion Leader, a person with significant influence in social media or a specific field.
 
 ## L
-layer2: Second-layer frameworks built on existing blockchains, often providing faster and cheaper transactions and more storage space.
+
+Layer1: Often referred to as the main chain or base layer blockchain, this layer includes major blockchain networks such as Bitcoin and Ethereum.
+
+Layer2: Second-layer frameworks built on existing blockchains, often providing faster and cheaper transactions and more storage space.
 
 LFG: Let's Fucking Go, expressing encouragement or enthusiasm.
 
@@ -417,10 +420,14 @@ Two-Factor Authentication (2FA): A security method requiring users to provide tw
 
 Trustless: Operating without the need for trust, typically achieved through blockchain technology.
 
+Telegram: Telegram is an encrypted instant messaging software. Compared to other similar products, the biggest feature of Telegram is its "security," which allows for end-to-end encrypted communication.
+
+## U
 Up Only: Referring to a continuous increase in price, expressing a hopeful sentiment.
 
 Uniswap: A popular decentralized exchange (DEX) using an automated market maker (AMM) model.
 
+## V
 Vaporware: Refers to a cryptocurrency project that lacks substance or fails to deliver promised features.
 
 victim: A person or group whose assets are compromised in a web3 security incident.
@@ -430,6 +437,8 @@ Validator: In proof-of-stake (PoS) and other consensus mechanisms, a participant
 Volume: The total amount of assets traded within a given time period.
 
 Volatility: The degree of variation in asset prices over a short period.
+
+## W
 
 wagmi: We are gonna make it, expressing optimism and determination.
 
@@ -449,11 +458,15 @@ Wrapped Tokens: Tokens representing the tokenized version of an asset, commonly 
 
 WTF: What The Fuck, an expression of shock, confusion, dissatisfaction, or surprise commonly used in the Web3, cryptocurrency, or blockchain communities.
 
+## Y
+
 Yield protocol: A platform providing staking rewards.
 
 Yield Aggregator: A platform that automatically reinvests yields earned from staking.
 
 Yield-bearing Token: Tokens that generate interest over time.
+
+## Z
 
 zk: Zero-knowledge proof, a method to prove possession of a secret without revealing the secret itself.
 

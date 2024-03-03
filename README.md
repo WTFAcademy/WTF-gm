@@ -1,31 +1,31 @@
-# WTF gm：Web3黑话汇总
+# WTF gm:Web3黑话汇总
 
 经常新入圈的有同学问我“什么是gm?”，我决定写一个Web3黑话中文汇总（黑宝书），方便大家查询，并传播web3语言文化。
 
 ## A
-ABI：Application Binary Interface，类似于API，是两个二进制程序模块之间接口。
+ABI:Application Binary Interface，类似于API，是两个二进制程序模块之间接口。
 
-address：钱包/合约地址。
+address:钱包/合约地址。
 
-alpha：超额收益机会。
+alpha:超额收益机会。
 
-AMA：Ask Me Anything，项目方面向公众的问答会。
+AMA:Ask Me Anything，项目方面向公众的问答会。
 
-ATA：Ask the Anything，AMA的另一种说法。
+ATA:Ask the Anything，AMA的另一种说法。
 
-AMM：Autonomous Market Making，自动化做市商，是去中心化交易所的常用技术。
+AMM:Autonomous Market Making，自动化做市商，是去中心化交易所的常用技术。
 
-ape：梭哈。
+ape:梭哈。
 
-Arbitrage：搬砖套利，跨平台赚取其中的差价，要快准狠 。
+Arbitrage:搬砖套利，跨平台赚取其中的差价，要快准狠 。
 
-ATH：All Time High，历史最高的价格。
+ATH:All Time High，历史最高的价格。
 
-ATL： All Time Low,历史最低的价格。
+ATL: All Time Low,历史最低的价格。
 
-APR：Annual percent rate，年度百分比利率，是在考虑复利之前的年回报率。
+APR:Annual percent rate，年度百分比利率，是在考虑复利之前的年回报率。
 
-APY：Annual Percentage Yield，年利率，DeFi项目中利率的一种常见方式，它表示一年中您所持有资产的预期收益率。
+APY:Annual Percentage Yield，年利率，DeFi项目中利率的一种常见方式，它表示一年中您所持有资产的预期收益率。
 
 Approve: 中文意思:赞成:同意:批准。 顾名思义， 即授权的意思。 操作过DEX的用户经常能看到这个词。它允许持有token的用户，通过调用approve方法，授权给指定合约账户一定额度，
 
@@ -33,29 +33,29 @@ Airdrop: 空投, 即项目方免费赠送代币给你，目的是使人们进一
 ## B
 BIP: Bitcoin Improvement Proposal- 比特币改进提案
 
-Blockchain：区块链。
+Blockchain:区块链。
 
-Bridge：跨链桥，连接不同公链上的资产的应用。
+Bridge:跨链桥，连接不同公链上的资产的应用。
 
 Buy the fucking dip: 抄底。
 
 Beeple: 数字艺术家，他出售的NFT “[Everydays - The First 5000 Days](https://en.wikipedia.org/wiki/Everydays:_the_First_5000_Days)” 以价格6900万美元被购买。
 
-BSC：Binance Smart Chain，Binance智能链，由中心化交易所Binance开发的基于以太坊的区块链网络。
+BSC:Binance Smart Chain，Binance智能链，由中心化交易所Binance开发的基于以太坊的区块链网络。
 
 BEP，Binance Smart Chain上的代币标准，类似于ERC20。
 
-Block：区块，是区块链上的数据结构，用于记录交易和数据。
+Block:区块，是区块链上的数据结构，用于记录交易和数据。
 
 Block Height: 区块高度，表示区块链中的区块数量。
 
 Block Reward: 区块奖励，矿工为验证交易和创建新区块所获得的奖励。
 
-Burn：销毁，指在加密资产发行和管理中，将代币永久性地从流通中移除。
+Burn:销毁，指在加密资产发行和管理中，将代币永久性地从流通中移除。
 
-Bull：牛市，指加密货币价格上涨的市场环境。
+Bull:牛市，指加密货币价格上涨的市场环境。
 
-Bear：熊市，指加密货币价格下跌的市场环境。
+Bear:熊市，指加密货币价格下跌的市场环境。
 
 BearWhale: 看空的大户。
 
@@ -68,11 +68,11 @@ Bytecode: 字节码，低级、与机器无关的代码，可以由虚拟机执�
 ## C
 Crypto: 加密货币的简称。
 
-CeFi：Centralized Finance，中心化金融。
+CeFi:Centralized Finance，中心化金融。
 
-Cex：Centralized Exchange，中心化交易所。
+Cex:Centralized Exchange，中心化交易所。
 
-ctf：Capture The Flag，网络安全技术比赛。
+ctf:Capture The Flag，网络安全技术比赛。
 
 chad: 牛逼的人 。(一般指男性)
 
@@ -83,39 +83,39 @@ Contract Address: 合约地址，智能合约在区块链上的地址。
 Chainlink: 一个去中心化的oracle网络，允许智能合约基于现实世界的数据来安全、可靠地运行。
 
 ## D
-DAO：Decentralized Autonomous Organization，去中心化自治组织。
+DAO:Decentralized Autonomous Organization，去中心化自治组织。
 
-Dapp：Decentralized Application，去中心化应用。
+Dapp:Decentralized Application，去中心化应用。
 
-DeFi：Decentralized Finance，去中心化金融。
+DeFi:Decentralized Finance，去中心化金融。
 
-degen：degenerate，赌徒/梭哈的人。
+degen:degenerate，赌徒/梭哈的人。
 
-delist：下架。
+delist:下架。
 
-DeSci：Decentralized Science，去中心化科学。
+DeSci:Decentralized Science，去中心化科学。
 
-DeSoc：Decentralized Society，去中心化社会。
+DeSoc:Decentralized Society，去中心化社会。
 
-DeX：Decentralized Exchange，去中心化交易所。列子：可以通过 [DefiLlama](https://defillama.com/protocols/Dexes) 找到完整的DEX列表
+DeX:Decentralized Exchange，去中心化交易所。列子:可以通过 [DefiLlama](https://defillama.com/protocols/Dexes) 找到完整的DEX列表
 
-Diamond hands：钻石手，长期持有代币/NFT的人。
+Diamond hands:钻石手，长期持有代币/NFT的人。
 
-DID：Decentralized Identity，去中心化身份。
+DID:Decentralized Identity，去中心化身份。
 
-discord：社群常用的信息传播平台。
+discord:社群常用的信息传播平台。
 
-dm：direct message，私信。
+dm:direct message，私信。
 
-DPoS：Delegated Proof of Stake，代理权益证明DPOS作为第三代的共识机制，保留了PoS节能的优点，并引入了代议民主的機念，透过减少节点的数量，除了能够达成比PoS更低的能耗，更是解决了Po与POS其中一个痛点一交易确认的时间过长的问题
+DPoS:Delegated Proof of Stake，代理权益证明DPOS作为第三代的共识机制，保留了PoS节能的优点，并引入了代议民主的機念，透过减少节点的数量，除了能够达成比PoS更低的能耗，更是解决了Po与POS其中一个痛点一交易确认的时间过长的问题
 
-DYOR：Do Your Own Research，自己研究，自己负责。
+DYOR:Do Your Own Research，自己研究，自己负责。
 
 Due diligence: 尽职调查。
 
-Dai：由MakerDAO发行的去中心化稳定币，价值与美元挂钩。
+Dai:由MakerDAO发行的去中心化稳定币，价值与美元挂钩。
 
-Dydx：去中心化衍生品交易所，提供永续合约、期权和闪电贷款等服务。
+Dydx:去中心化衍生品交易所，提供永续合约、期权和闪电贷款等服务。
 
 Discord: 海外项目社群常用的社区社交/即时通讯平台。
 
@@ -123,41 +123,41 @@ Data Oracle: 数据预言机，为智能合约提供链下数据。
 
 ## E
 
-EOA：Externally Owned Accounts，以太坊网络中的个人用户，而非智能合约地址。
+EOA:Externally Owned Accounts，以太坊网络中的个人用户，而非智能合约地址。
 
-ERC20：以太坊上的同质化代币标准。
+ERC20:以太坊上的同质化代币标准。
 
-ERC721：以太坊上的非同质化代币标准。
+ERC721:以太坊上的非同质化代币标准。
 
 EIP: Ethereum Improvement Proposal，以太坊的提案系统，旨在改进以太坊网络。
 
-Ethereum：以太坊，一个去中心化的开源区块链网络，也是它的原生代币名字。
+Ethereum:以太坊，一个去中心化的开源区块链网络，也是它的原生代币名字。
 
 Ethereum 2.0: 以太坊的下一代升级，将采用权益证明（PoS）共识机制，带来各种性能和安全性的改进。
 
 ETF: ETF（Exchange-Traded Fund）是交易所交易基金的缩写。它是一种类似于股票的投资工具，以指数、商品、债券、虚拟货币等为基础资产，通过证券交易所进行买卖。ETF的目标是在交易所上市交易，通过跟踪特定指数或资产组合，提供投资者一种低成本、高流动性的投资选择。2024年1月10日，首支Bitcoin ETF在美国获批。
 
 
-EVM：Ethereum Virtual Machine，以太坊虚拟机，是区块链开发人员用来在以太坊区块链上部署去中心化应用程序 (Dapp) 的软件应用程序。
+EVM:Ethereum Virtual Machine，以太坊虚拟机，是区块链开发人员用来在以太坊区块链上部署去中心化应用程序 (Dapp) 的软件应用程序。
 
 ENS: Ethereum Name Service，是以太坊上的一个去中心化域名服务。
 
 ## F
 FT: fungible token，同质化代币。
 
-fam：family 家人。
+fam:family 家人。
 
-floor price：地板价。
+floor price:地板价。
 
-fren：friend，朋友。
+fren:friend，朋友。
 
-Fomo：Fear of Missing Out，害怕踏空而盲目跟风。
+Fomo:Fear of Missing Out，害怕踏空而盲目跟风。
 
-FUD：Fear, Uncertainty, and Doubt，过分夸大的市场的消极信息。
+FUD:Fear, Uncertainty, and Doubt，过分夸大的市场的消极信息。
 
-FED：The Federal Reserve 美联储。
+FED:The Federal Reserve 美联储。
 
-FDV：Fully Diluted Valuation，即“完全稀释估值”。
+FDV:Fully Diluted Valuation，即“完全稀释估值”。
 
 FYI(for your information): 供你参考。
 
@@ -171,30 +171,30 @@ Fair Launch: 公平发布。它是一种没有预挖、预售或团队分配的�
 
 
 ## G
-gas：燃料，表示在区块链完成交易所需的计算工作量。
+gas:燃料，表示在区块链完成交易所需的计算工作量。
 
-gas fee：燃料费，表示在区块链完成交易所需的支付的以太坊费用。
+gas fee:燃料费，表示在区块链完成交易所需的支付的以太坊费用。
 
 Gwei: 以太坊上的一个单位，1 Gwei = 0.000000001 ETH。
 
-gas limit：交易中燃料的最大消耗量。
+gas limit:交易中燃料的最大消耗量。
 
-gas price：区块链中每单位燃料的价格。
+gas price:区块链中每单位燃料的价格。
 
-gas war：因为争抢热门项目而导致燃料飙升。
+gas war:因为争抢热门项目而导致燃料飙升。
 
-gm：good morning，早安，类似web3中的“您吃了没？”。
+gm:good morning，早安，类似web3中的“您吃了没？”。
 
-gn：good night，晚安。
+gn:good night，晚安。
 
 gg: good game。
 
 Gasless Transactions: 一种允许用户无需支付燃料费就能进行交易的方法，通常通过元交易或第三方支付。
 
 ## H
-hacked：被黑客攻击了。
+hacked:被黑客攻击了。
 
-HODL：hold on dear love，钻石手，长期持有。
+HODL:hold on dear love，钻石手，长期持有。
 
 Hot Wallet: 热钱包，经常在线的钱包，相对于冷钱包更容易受到攻击。
 
@@ -203,17 +203,17 @@ Hash: 一个数学函数，将输入（或“消息”）转化为一个固定�
 Hard Fork: 硬分叉，是区块链上的一个重大改变，导致之前的规则与新的规则不兼容。
 
 ## I
-IRL：In Real Life，现实生活中。
+IRL:In Real Life，现实生活中。
 
 ifykyk: 懂得都懂。
 
 ICO: Initial Coin Offering 首次代币发行。
 
-IFO：Initial Farm Offering 首次农场（质押）发行。
+IFO:Initial Farm Offering 首次农场（质押）发行。
 
-IEO：Initial Exchange Offering 首次交易所发行（比如在币安交易所发行）。
+IEO:Initial Exchange Offering 首次交易所发行（比如在币安交易所发行）。
 
-IDO：Initial DEX Offering 首次去中心化交易所发行（比如在Pancakeswap上发行）。
+IDO:Initial DEX Offering 首次去中心化交易所发行（比如在Pancakeswap上发行）。
 
 IPFS: InterPlanetary File System，是一个去中心化的文件存储和获取协议。
 
@@ -231,25 +231,28 @@ Keystore: 是一个加密的文件，通常用于存储用户的私钥。
 KOL: Key Opinion Leader，关键意见领袖。通常指社交媒体或某一领域内的影响力人物。
 
 ## L
-layer2：建立在现有公链上的二层框架，通常会有更快更便宜的交易、更多的存储空间。
 
-LFG：Let's Fucking Go！冲！梭哈！
+Layer1: 常被称为主链或底层区块链,这一层包括了比特币、以太坊等主要的区块链网络。
+
+Layer2: 建立在现有公链上的二层框架，通常会有更快更便宜的交易、更多的存储空间。
+
+LFG: Let's Fucking Go！冲！梭哈！
 
 LGTM: Looks good to me， 我看行。
 
-liquidity：流动性。
+liquidity:流动性。
 
 Liquidity mining: 流动性挖矿，指通过提供流动性来赚取代币的一种方式。
 
-LP token: liquidity Pool(LP) token 流动性资金池代币 列子：当用户给Uniswap/Curve 的某个资金池提供资金，会产生的一个收据凭证(可以是基础的ERC20，或者ERC 721 NFT for Uniswap V3) 
+LP token: liquidity Pool(LP) token 流动性资金池代币 列子:当用户给Uniswap/Curve 的某个资金池提供资金，会产生的一个收据凭证(可以是基础的ERC20，或者ERC 721 NFT for Uniswap V3) 
 
-LP farmer： 通过在不同的去中心化平台以提供流动性来赚取收益的一部分人。因为经常需要提取收益复投，所以以此自称
+LP farmer: 通过在不同的去中心化平台以提供流动性来赚取收益的一部分人。因为经常需要提取收益复投，所以以此自称
 
-Lending protocol: 允许用户存款以及借贷的平台。列子：可以通过 [DefiLlama](https://defillama.com/protocols/Lending) 找到完整的借贷列表
+Lending protocol: 允许用户存款以及借贷的平台。列子:可以通过 [DefiLlama](https://defillama.com/protocols/Lending) 找到完整的借贷列表
 
-Liquid staking protocol：允许用户质押资产，并且质押凭证可以自由交易。列子：stETH 可以通过 [DefiLlama](https://defillama.com/protocols/Liquid%20Staking) 找到完整列表
+Liquid staking protocol:允许用户质押资产，并且质押凭证可以自由交易。列子:stETH 可以通过 [DefiLlama](https://defillama.com/protocols/Liquid%20Staking) 找到完整列表
 
-LMAO：laugh my ass off 笑死我了
+LMAO:laugh my ass off 笑死我了
 
 Lambo: 兰博基尼，一般指某个大幅上涨的币。
 
@@ -264,23 +267,23 @@ Liquidity Pool: 流动性池。DeFi项目中，用户提供的资金的集合，
 Liquidity Provider: 流动性提供者。在DeFi项目中，为流动性池提供资金的用户。
 
 ## M
-maxi：maximalist， 极端主义者。
+maxi:maximalist， 极端主义者。
 
-meme：谜因/梗，可以传播的东西。
+meme:谜因/梗，可以传播的东西。
 
-Mempool：交易缓冲池，在交易被发出但未上链的时候，会出现在这里。
+Mempool:交易缓冲池，在交易被发出但未上链的时候，会出现在这里。
 
-Merkle Tree：区块链用于安全验证和汇总大型数据集的数据结构。
+Merkle Tree:区块链用于安全验证和汇总大型数据集的数据结构。
 
-MEV：Miner Extractable Value 或 Maximal Extractable Value，指矿工通过在一个区块中包含、排除或重新排序交易可以获得的利润。
+MEV:Miner Extractable Value 或 Maximal Extractable Value，指矿工通过在一个区块中包含、排除或重新排序交易可以获得的利润。
 
-Mint：铸造 NFT/ERC20。
+Mint:铸造 NFT/ERC20。
 
 Moon: to the moon, 暴涨。
 
-MakerDAO：去中心化稳定币平台。
+MakerDAO:去中心化稳定币平台。
 
-MEV：Miner Extractable Value，矿工可提取价值，指在以太坊上可以被矿工抢先打包的价值。
+MEV:Miner Extractable Value，矿工可提取价值，指在以太坊上可以被矿工抢先打包的价值。
 
 Metamask: 一个流行的以太坊和ERC-20代币钱包，同时也是一个浏览器扩展。
 
@@ -291,47 +294,47 @@ Mining: 挖矿。通过解决数学问题来验证加密货币交易并创建新
 Multichain: 多链。允许在多个区块链之间创建和执行智能合约的平台。
 
 ## N
-nfa：Not Financial Advice，不是投资建议。
+nfa:Not Financial Advice，不是投资建议。
 
-NFT：Non-Fungible Token，非同质化代币。
+NFT:Non-Fungible Token，非同质化代币。
 
-ngmi：Not ganna make it，不会成功的。
+ngmi:Not ganna make it，不会成功的。
 
-Noob：菜鸡。
+Noob:菜鸡。
 
-Nonce：在以太坊的发送的transaction中，它的含义是与以太坊交易相关的一个数字，每笔交易nonce都会增加1，每个nonce只能使用一次。这是为了避免交易的重复。（注意在不同的环境中，nonce的意思会不同，在比如，在比特币中的nonce的含义就完全不相同）
+Nonce:在以太坊的发送的transaction中，它的含义是与以太坊交易相关的一个数字，每笔交易nonce都会增加1，每个nonce只能使用一次。这是为了避免交易的重复。（注意在不同的环境中，nonce的意思会不同，在比如，在比特币中的nonce的含义就完全不相同）
 
-ngl：not gonna lie，老实说
+ngl:not gonna lie，老实说
 
 Node: 节点。在加密货币网络中，代表运行特定区块链的完整代码和数据的计算机。
 
 ## O
-OG：Original Gangster，元老。
+OG:Original Gangster，元老。
 
-on-chain：链上。
+on-chain:链上。
 
-off-chain：链下，不上链。
+off-chain:链下，不上链。
 
-optimistic rollups：乐观汇总，一种以太坊layer2解决方案。
+optimistic rollups:乐观汇总，一种以太坊layer2解决方案。
 
-oracle：预言机， 把信息通过去中心化的方式转到链上， 通过保证传入信息的去中心化程度和准确性， 从而保持该Dapp的去中心化程度。
+oracle:预言机， 把信息通过去中心化的方式转到链上， 通过保证传入信息的去中心化程度和准确性， 从而保持该Dapp的去中心化程度。
 
-OAT：On-Chain Achievement Tokens，是一种可以代表出席证明或是成就证明的NFT。当你完成项目给出的任务或是符合条件，就可以获得OAT 徽章，证明你是项目活动的参与者。
+OAT:On-Chain Achievement Tokens，是一种可以代表出席证明或是成就证明的NFT。当你完成项目给出的任务或是符合条件，就可以获得OAT 徽章，证明你是项目活动的参与者。
 
 OTC: Over The Counter, 场外交易。直接在两个当事人之间进行的交易，而不是在公开的交易所上。
 
 ## P
-paper hands：纸手，钻石手的反义词。
+paper hands:纸手，钻石手的反义词。
 
-pfp：profile picture，个人头像。
+pfp:profile picture，个人头像。
 
-PoS：Proof of Stake，权益证明，参与者通过持仓质押维护区块链网络正常运行。
+PoS:Proof of Stake，权益证明，参与者通过持仓质押维护区块链网络正常运行。
 
-PoW：Proof of Work，工作量证明，参与者通过花费计算能力和能量维护区块链网络正常运行。
+PoW:Proof of Work，工作量证明，参与者通过花费计算能力和能量维护区块链网络正常运行。
 
-prolly nothing：Probbably Nothing，可能什么都不会发生，用于卖关子。
+prolly nothing:Probbably Nothing，可能什么都不会发生，用于卖关子。
 
-Pump and dump：拉盘砸盘，形容一个项目被严重控盘。
+Pump and dump:拉盘砸盘，形容一个项目被严重控盘。
 
 phishing: 钓鱼网站。
 
@@ -349,44 +352,44 @@ Portfolio: 投资组合。一个人所有的加密货币资产的集合。
 
 
 ## R
-ReFi：Regenerative Finance，可再生/可持续金融。
+ReFi:Regenerative Finance，可再生/可持续金融。
 
-rekt：wrecked, 完蛋了，破产了。
+rekt:wrecked, 完蛋了，破产了。
 
-roadmap：路线图（画大饼）。
+roadmap:路线图（画大饼）。
 
-RT：Retweet 推特转发。
+RT:Retweet 推特转发。
 
-rug：rug-pull，撤摊子/跑路/归零。
+rug:rug-pull，撤摊子/跑路/归零。
 
-ROI：Return on Investment,投资回报率。
+ROI:Return on Investment,投资回报率。
 
-RWA (Real World Asset)：真实世界资产。指那些在区块链外部存在的，如房地产、股票或其他形式的资产。在DeFi中，RWA的概念是试图将这些现实中的资产带到区块链平台，从而获得流动性或其他形式的金融操作。
+RWA (Real World Asset):真实世界资产。指那些在区块链外部存在的，如房地产、股票或其他形式的资产。在DeFi中，RWA的概念是试图将这些现实中的资产带到区块链平台，从而获得流动性或其他形式的金融操作。
 
 Ring Signature: 环签名。一种加密签名，允许一个组的成员进行签名，但不会显示是哪个成员进行的签名。Monero加密货币使用这种技术以保持交易的匿名性。
 
 RPC (Remote Procedure Call): 远程过程调用。应用程序通常使用它与区块链节点进行通信。
 
 ## S
-Sandwich Attack：三明治攻击/夹子，攻击者会抢在受害者的大笔买入订单之前买入、提高价格，在受害者订单后下达卖单，赚取收益。
+Sandwich Attack:三明治攻击/夹子，攻击者会抢在受害者的大笔买入订单之前买入、提高价格，在受害者订单后下达卖单，赚取收益。
 
-SBT：Soulbound Token，灵魂绑定代币，不能交易的NFT。
+SBT:Soulbound Token，灵魂绑定代币，不能交易的NFT。
 
-shilling：推销。
+shilling:推销。
 
-Smart Contracts：智能合约，在区块链上运行的一段代码。
+Smart Contracts:智能合约，在区块链上运行的一段代码。
 
-solidity：以太坊上的编写智能合约的语言。
+solidity:以太坊上的编写智能合约的语言。
 
-sweep floor：扫地板。
+sweep floor:扫地板。
 
 Send it: 懂了，支持
 
-Stablecoin：稳定币，价值与法币或其他资产挂钩的代币，如USDT。
+Stablecoin:稳定币，价值与法币或其他资产挂钩的代币，如USDT。
 
 Shil: 骗子，为了一己私利去推广资金盘的人。
 
-SAFU：fund are safe，资金很安全。
+SAFU:fund are safe，资金很安全。
 
 Staking: 质押。用户持有并锁定某些加密货币来支持区块链网络的操作，如验证交易，通常可以赚取奖励。
 
@@ -401,13 +404,13 @@ Soft Fork: 软分叉。一种区块链协议的升级方式，与之前的版本
 Slippage: 滑点。在交易加密货币时，预期价格与实际交易价格之间的差异。
 
 ## T
-Tokenomics：代币经济学。
+Tokenomics:代币经济学。
 
 tradfi: traditional finance, 主流金融体系
 
-TVL：Total Value Locked，协议中锁定的资金总价值。
+TVL:Total Value Locked，协议中锁定的资金总价值。
 
-tbh：to be honest，老实说。
+tbh:to be honest，老实说。
 
 To The Moon : 暴涨。
 
@@ -423,8 +426,10 @@ Two-Factor Authentication (2FA): 两步验证。一种增加账户安全性的�
 
 Trustless: 无需信任。在区块链环境中，参与者不需要互相信任，因为系统的设计保证了透明性和不可篡改性。
 
+Telegram: 非正式简称TG或电报,Telegram是一款加密即时通信软件。相比于其他同类产品。Telegram最大的特色是他的“安全性”,能够实现端到端的加密通讯。
+
 ## U
-Up Only：一直上涨（大家的美好愿望）。
+Up Only:一直上涨（大家的美好愿望）。
 
 Uniswap: 一个流行的去中心化交易所（DEX），使用自动做市商（AMM）模型。
 
@@ -441,33 +446,33 @@ Volume: 成交量。在给定时间段内交易的资产总量。
 Volatility: 波动性。表示资产价格在短时间内上下波动的程度。
 
 ## W
-wagmi：We are gonna make it，我们会成功的。也是一个Web3常用的react前端库的名字，包装了很多常用的hooks。
+wagmi:We are gonna make it，我们会成功的。也是一个Web3常用的react前端库的名字，包装了很多常用的hooks。
 
-wallet：钱包。
+wallet:钱包。
 
-web3.0：以去中心化和数字所有权为特征的互联网，与Web1.0和Web2.0不同。
+web3.0:以去中心化和数字所有权为特征的互联网，与Web1.0和Web2.0不同。
 
-wen：when，什么时候。
+wen:when，什么时候。
 
-WETH：Wrapped Ethereum，ERC20标准的以太坊代币化版本。
+WETH:Wrapped Ethereum，ERC20标准的以太坊代币化版本。
 
-whale：鲸鱼，持有大量资金/筹码的人。
+whale:鲸鱼，持有大量资金/筹码的人。
 
-WL：White List，白名单。
+WL:White List，白名单。
 
 Wrapped Tokens: 封装的代币，如WETH。表示一种资产的代币化版本，常用于将非ERC20资产带到以太坊网络上。
 
 WTF: What The Fuck，常用来表示震惊、困惑、不满或者惊讶的情感。在 Web3、加密货币或区块链社区中，由于技术和市场动态的快速变化，WTF 的场景可能会频繁出现。例如，当某个代币的价格突然大幅波动或出现意外的技术故障时，社区成员可能会使用"WTF"来表达自己的困惑或惊讶。例: [WTF Academy](https://github.com/WTFAcademy)
 
 ## Y
-Yield protocol: 提供质押收益的平台 列子：Convex， 可以通过 [DefiLlama](https://defillama.com/protocols/Yield) 找到完整的列表
+Yield protocol: 提供质押收益的平台 列子:Convex， 可以通过 [DefiLlama](https://defillama.com/protocols/Yield) 找到完整的列表
 
-Yield Aggregator:  通过存入质押凭证，平台能够自动复投收益 俗称机枪池。 列子： Yearn Finance 可以通过 [DefiLlama](https://defillama.com/protocols/Yield%20Aggregator) 找到完整的列表
+Yield Aggregator:  通过存入质押凭证，平台能够自动复投收益 俗称机枪池。 列子: Yearn Finance 可以通过 [DefiLlama](https://defillama.com/protocols/Yield%20Aggregator) 找到完整的列表
 
-Yield-bearing Token： 随着时间的推移自行产生利息的代币。列子： stETH,SFRXETH 根据协议的不同，要区分清楚哪一个代币是自动生息
+Yield-bearing Token: 随着时间的推移自行产生利息的代币。列子: stETH,SFRXETH 根据协议的不同，要区分清楚哪一个代币是自动生息
 
 ## Z
-zk：zero-knowledge proof，零知识证明，可以证明一个人拥有某个秘密，但不用泄露秘密本身。
+zk:zero-knowledge proof，零知识证明，可以证明一个人拥有某个秘密，但不用泄露秘密本身。
 
 ZK-Rollups: 一种Layer-2扩展解决方案，使用零知识证明来扩大以太坊的处理能力。
 

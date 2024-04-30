@@ -82,6 +82,8 @@ Contract Address: 合约地址，智能合约在区块链上的地址。
 
 Chainlink: 一个去中心化的oracle网络，允许智能合约基于现实世界的数据来安全、可靠地运行。
 
+cx: 传销的拼音(chuan xiao)缩写，喊单，拉人头，喊人接盘。
+
 ## D
 DAO:Decentralized Autonomous Organization，去中心化自治组织。
 

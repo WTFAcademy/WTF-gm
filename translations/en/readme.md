@@ -81,6 +81,8 @@ Contract Address: The address of a smart contract on the blockchain.
 
 Chainlink: A decentralized oracle network providing real-world data to smart contracts.
 
+cx: The pinyin abbreviation for "Chuan Xiao" in Chinese (which refers to Multi-Level Marketing or MLM).
+
 ## D
 DAO: Decentralized Autonomous Organization.
 

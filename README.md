@@ -43,7 +43,9 @@ Beeple: 数字艺术家，他出售的NFT “[Everydays - The First 5000 Days](h
 
 BSC:Binance Smart Chain，Binance智能链，由中心化交易所Binance开发的基于以太坊的区块链网络。
 
-BEP，Binance Smart Chain上的代币标准，类似于ERC20。
+BEP:Binance Smart Chain上的代币标准，类似于ERC20。
+
+Beacon Chain: Beacon Chain 是以太坊在 2020 年推出的原始权益证明区块链，其创立是为了在以太坊主网上运行权益证明共识逻辑之前确保该逻辑是可靠且可持续的，且在 2022 年 9 月 15 日完成合并升级，将权益证明正式确定为太坊的共识机制。
 
 Block:区块，是区块链上的数据结构，用于记录交易和数据。
 

@@ -3,33 +3,38 @@
 经常新入圈的有同学问我“什么是gm?”，我决定写一个Web3黑话中文汇总（黑宝书），方便大家查询，并传播web3语言文化。
 
 ## A
-ABI:Application Binary Interface，类似于API，是两个二进制程序模块之间接口。
+A16Z: 圈内外著名的投资机构，2013年投资了coinbase, 在21年上市后获利高达 70 多亿美元，该机构被誉为加密世界的风向标。
 
-address:钱包/合约地址。
+ABI: Application Binary Interface，类似于API，是两个二进制程序模块之间接口。
 
-alpha:超额收益机会。
+Address: 钱包/合约地址。
 
-AMA:Ask Me Anything，项目方面向公众的问答会。
+Airdrop: 空投，即项目方免费赠送代币给你，目的是使人们进一步了解该币种。
 
-ATA:Ask the Anything，AMA的另一种说法。
+Alpha: 超额收益机会。
 
-AMM:Autonomous Market Making，自动化做市商，是去中心化交易所的常用技术。
+AMA: Ask Me Anything，项目方面向公众的问答会。
 
-ape:梭哈。
+AML: Anti Money Laundering，反洗钱的缩写。在法币世界中，银行要求提供有关资金来源、地址证明等信息，而在加密货币世界中服务提供商分析链上交易行为并为交易进行风险评分。
 
-Arbitrage:搬砖套利，跨平台赚取其中的差价，要快准狠 。
+AMM: Autonomous Market Making，自动化做市商，是去中心化交易所的常用技术。
 
-ATH:All Time High，历史最高的价格。
+Ape: 源于英文单词 "ape," 在这里有着“像猿猴一样投入”的含义，用于描述投资者或参与者对某个项目或加密货币的迅速而冒险的投资行为。
 
-ATL: All Time Low,历史最低的价格。
+Approve: 授权的意思，操作过DEX的用户经常能看到这个词。它允许持有token的用户通过调用approve方法授权给指定合约账户一定额度。
 
-APR:Annual percent rate，年度百分比利率，是在考虑复利之前的年回报率。
+APR: Annual percent rate，年度百分比利率，是在考虑复利之前的年回报率。
 
-APY:Annual Percentage Yield，年利率，DeFi项目中利率的一种常见方式，它表示一年中您所持有资产的预期收益率。
+APY: Annual Percentage Yield，年利率，DeFi项目中利率的一种常见方式，它表示一年中您所持有资产的预期收益率。
 
-Approve: 中文意思:赞成:同意:批准。 顾名思义， 即授权的意思。 操作过DEX的用户经常能看到这个词。它允许持有token的用户，通过调用approve方法，授权给指定合约账户一定额度，
+Arbitrage: 搬砖套利，跨平台赚取其中的差价，要快准狠。
 
-Airdrop: 空投, 即项目方免费赠送代币给你，目的是使人们进一步了解该币种。
+ATA: Ask the Anything，AMA的另一种说法。
+
+ATH: All Time High，历史最高的价格。
+
+ATL: All Time Low，历史最低的价格。
+
 ## B
 BIP: Bitcoin Improvement Proposal- 比特币改进提案
 

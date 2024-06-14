@@ -32,47 +32,45 @@ Approve: 中文意思:赞成:同意:批准。 顾名思义， 即授权的意思
 Airdrop: 空投, 即项目方免费赠送代币给你，目的是使人们进一步了解该币种。
 
 ## B
-BIP: Bitcoin Improvement Proposal- 比特币改进提案
+Beacon Chain: 以太坊在 2020 年推出的原始权益证明区块链，其创立是为了在以太坊主网上运行权益证明共识逻辑之前确保该逻辑是可靠且可持续的，且在 2022 年 9 月 15 日完成合并升级，将权益证明正式确定为太坊的共识机制。
 
-Blockchain:区块链是一个信息技术领域的术语，一个个数据块区链接起来，叫区块链。
+Bear: 熊市，指加密货币价格下跌的市场环境。
 
-Bridge:跨链桥，连接不同公链上的资产的应用。
-
-Buy the fucking dip: 抄底。
+BearWhale: 看空的大户。
 
 Beeple: 数字艺术家，他出售的NFT “[Everydays - The First 5000 Days](https://en.wikipedia.org/wiki/Everydays:_the_First_5000_Days)” 以价格6900万美元被购买。
 
-BSC:Binance Smart Chain，Binance智能链，由中心化交易所Binance开发的基于以太坊的区块链网络。
+BEP: Binance Smart Chain上的代币标准，类似于ERC20。
 
-BEP:Binance Smart Chain上的代币标准，类似于ERC20。
+Beta: 指能获利但获利较小的币种，比方说各类主流币，市值大且价值已被发现，涨幅相对有限。
 
-Beacon Chain: Beacon Chain 是以太坊在 2020 年推出的原始权益证明区块链，其创立是为了在以太坊主网上运行权益证明共识逻辑之前确保该逻辑是可靠且可持续的，且在 2022 年 9 月 15 日完成合并升级，将权益证明正式确定为太坊的共识机制。
+BIP: Bitcoin Improvement Proposal，比特币改进提案
 
-Block:区块，是区块链上的数据结构，用于记录交易和数据。
+Block: 区块，是区块链上的数据结构，用于记录交易和数据。
+
+Blockchain: 区块链是一个信息技术领域的术语，一个个数据块区链接起来，叫区块链。
 
 Block Height: 区块高度，表示区块链中的区块数量。
 
 Block Reward: 区块奖励，矿工为验证交易和创建新区块所获得的奖励。
 
-Burn:销毁，指在加密资产发行和管理中，将代币永久性地从流通中移除。
-
-Bull:牛市，指加密货币价格上涨的市场环境。
-
-Bear:熊市，指加密货币价格下跌的市场环境。
-
-BearWhale: 看空的大户。
-
 Bounty Program: 赏金计划一由项目方分配的一些任务，任何人参加完成都可获得奖励
 
-BUIDL: 来自"BUILD"的错字，鼓励开发者继续构建和创新，而不是仅仅为了短期利益而投资加密货币。
+Bridge: 跨链桥，连接不同公链上的资产的应用。
 
-Bytecode: 字节码，低级、与机器无关的代码，可以由虚拟机执行。
-
-Beta: 指能获利但获利较小的币种，比方说各类主流币，市值大且价值已被发现，涨幅相对有限。
+BSC: Binance Smart Chain，Binance智能链，由中心化交易所Binance开发的基于以太坊的区块链网络。
 
 BTC: Bitcoin，一种基于去中心化，采用点对点网络与共识主动性，以区块链作为底层技术的加密货币。
 
-Whitelist: 项目方希望项目的早期关注者更早的参与机会，会进行一些相关活动并添加到白名单内，这些人可以更早期参与项目或者以更低的价格获得更多的代币。
+BTFD: Buy the fucking dip，抄底。
+
+BUIDL: 来自"BUILD"的错字，鼓励开发者继续构建和创新，而不是仅仅为了短期利益而投资加密货币。
+
+Bull: 牛市，指加密货币价格上涨的市场环境。
+
+Burn: 销毁，指在加密资产发行和管理中，将代币永久性地从流通中移除。
+
+Bytecode: 字节码，低级、与机器无关的代码，可以由虚拟机执行。
 
 ## C
 Crypto: 加密货币的简称。

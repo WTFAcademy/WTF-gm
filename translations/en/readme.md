@@ -30,39 +30,45 @@ Approve: Authorize, typically seen by users of DEX platforms.
 Airdrop: A project distributing tokens for free to increase awareness.
 
 ## B
-BIP: Bitcoin Improvement Proposal, suggesting changes to Bitcoin.
+Beacon Chain: Ethereum's original proof-of-stake blockchain launched in 2020. It was created to ensure that the proof-of-stake consensus logic is reliable and sustainable before running it on the Ethereum mainnet, and to complete the merge upgrade on September 15, 2022, officially establishing proof-of-stake as Ethereum's consensus mechanism.
 
-Blockchain: A decentralized ledger.
+Bear: A bear market refers to a market environment in which cryptocurrency prices fall.
 
-Bridge: A connection between assets on different blockchains.
+BearWhale: A bearish investor.
 
-Buy the fucking dip: Buy when prices are low.
+Beeple: A digital artist whose NFT "[Everydays - The First 5000 Days](https://en.wikipedia.org/wiki/Everydays:_the_First_5000_Days)" was purchased for $69 million.
 
-Beeple: A digital artist known for selling the NFT “[Everydays - The First 5000 Days](https://en.wikipedia.org/wiki/Everydays:_the_First_5000_Days)”
+BEP: A token standard on Binance Smart Chain, similar to ERC20.
 
-BSC: Binance Smart Chain, a blockchain network developed by Binance.
+Beta: Refers to currencies that can make a profit but with a small profit, such as various mainstream currencies, with a large market value and discovered value, and a relatively limited increase.
 
-BEP: Token standard on the Binance Smart Chain, similar to ERC20.
+BIP: Bitcoin Improvement Proposal
 
-Block: A data structure on the blockchain recording transactions.
+Block: Block is a data structure on the blockchain used to record transactions and data.
 
-Block Height: The number of blocks in a blockchain.
+Blockchain: Blockchain is a term in the field of information technology. Blocks of data are linked together, called blockchain.
 
-Block Reward: The reward miners get for verifying transactions and creating new blocks.
+Block Height: Block height, which indicates the number of blocks in the blockchain.
 
-Burn: Permanently remove tokens from circulation.
+Block Reward: Block reward, the reward miners receive for verifying transactions and creating new blocks.
 
-Bull: A market where cryptocurrency prices are rising.
+Bounty Program: Bounty Program - Some tasks assigned by the project party, anyone who participates and completes them can get rewards
 
-Bear: A market where cryptocurrency prices are falling.
+Bridge: Cross-chain bridge, an application that connects assets on different public chains.
 
-BearWhale: A large trader with a pessimistic outlook.
+BSC: Binance Smart Chain, Binance Smart Chain, an Ethereum-based blockchain network developed by the centralized exchange Binance.
 
-Bounty Program: Tasks distributed by projects where participants can earn rewards.
+BTC: Bitcoin, a cryptocurrency based on decentralization, using peer-to-peer networks and consensus initiatives, with blockchain as the underlying technology.
 
-BUIDL: Misspelling of "BUILD," encouraging developers to keep building and innovating.
+BTFD: Buy the fucking dip, bottom-fishing.
 
-Bytecode: Low-level, machine-independent code executed by a virtual machine.
+BUIDL: A typo from "BUILD", encouraging developers to continue building and innovating rather than investing in cryptocurrencies just for short-term gains.
+
+Bull: A bull market refers to a market environment where cryptocurrency prices rise.
+
+Burn: Destruction refers to the permanent removal of tokens from circulation in the issuance and management of crypto assets.
+
+Bytecode: Bytecode is a low-level, machine-independent code that can be executed by a virtual machine.
 
 ## C
 Crypto: Abbreviation for cryptocurrency.

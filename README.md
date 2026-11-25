@@ -45,6 +45,8 @@ BSC:Binance Smart Chain，Binance智能链，由中心化交易所Binance开发�
 
 BEP:Binance Smart Chain上的代币标准，类似于ERC20。
 
+BRC20:基于比特币网络原生的 Ordinals 协议开发而成的代币协议，通过 Ordinals 协议将铭文设置为JSON数据格式来进行代币部署、铸造和转移，ORDI 是首个 BRC-20 代币，迅速成为比特币生态中的重要资产。
+
 Beacon Chain: Beacon Chain 是以太坊在 2020 年推出的原始权益证明区块链，其创立是为了在以太坊主网上运行权益证明共识逻辑之前确保该逻辑是可靠且可持续的，且在 2022 年 9 月 15 日完成合并升级，将权益证明正式确定为太坊的共识机制。
 
 Block:区块，是区块链上的数据结构，用于记录交易和数据。
@@ -219,6 +221,8 @@ IEO:Initial Exchange Offering 首次交易所发行（比如在币安交易所�
 
 IDO:Initial DEX Offering 首次去中心化交易所发行（比如在Pancakeswap上发行）。
 
+Inscriptions:允许将任意内容(如文本、图片、视频、html 等格式的文件)附加到单个聪上,铭刻了具体内容的聪就成了铭文
+
 IPFS: InterPlanetary File System，是一个去中心化的文件存储和获取协议。
 
 IV: Implied Volatility，隐含波动率，通常用于期权定价。
@@ -279,15 +283,13 @@ Mempool:交易缓冲池，在交易被发出但未上链的时候，会出现在
 
 Merkle Tree:区块链用于安全验证和汇总大型数据集的数据结构。
 
-MEV:Miner Extractable Value 或 Maximal Extractable Value，指矿工通过在一个区块中包含、排除或重新排序交易可以获得的利润。
+MEV:Miner Extractable Value 或 Maximal Extractable Value，矿工可提取价值，指矿工通过在一个区块中包含、排除或重新排序交易可以获得的利润。
 
 Mint:铸造 NFT/ERC20。
 
 Moon: to the moon, 暴涨。
 
 MakerDAO:去中心化稳定币平台。
-
-MEV:Miner Extractable Value，矿工可提取价值，指在以太坊上可以被矿工抢先打包的价值。
 
 Metamask: 一个流行的以太坊和ERC-20代币钱包，同时也是一个浏览器扩展。
 
@@ -322,6 +324,8 @@ off-chain:链下，不上链。
 optimistic rollups:乐观汇总，一种以太坊layer2解决方案。
 
 oracle:预言机， 把信息通过去中心化的方式转到链上， 通过保证传入信息的去中心化程度和准确性， 从而保持该Dapp的去中心化程度。
+
+Ordinals:Ordinals 协议是一个给比特币最小单位（聪）编号的系统，给每个聪一个编号就赋予了每个聪的独特性，实现了可追踪和指定转移。
 
 OAT:On-Chain Achievement Tokens，是一种可以代表出席证明或是成就证明的NFT。当你完成项目给出的任务或是符合条件，就可以获得OAT 徽章，证明你是项目活动的参与者。
 

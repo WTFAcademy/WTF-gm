@@ -1,33 +1,37 @@
 Occasionally, web3 newcomers ask me, "What is gm?" so I decided to write a summary of Web3 jargon (the Black Book), making it convenient for everyone to look up and spread Web3 language and culture.
 
 ## A
+A16Z: A well-known investment institution in and outside the circle. It invested in Coinbase in 2013 and made a profit of more than 7 billion US dollars after its listing in 2021. The institution is known as the vane of the crypto world.
+
 ABI: Application Binary Interface, similar to API, is an interface between two binary program modules.
 
-address: Wallet/contract address.
+Address: wallet/contract address.
 
-alpha: Excess profit opportunity.
+Airdrop: Airdrop, that is, the project party gives you tokens for free, with the purpose of making people further understand the currency.
 
-AMA: Ask Me Anything, a Q&A session conducted by project teams for the public.
+Alpha: excess profit opportunity.
 
-ATA: Ask the Anything, another term for AMA.
+AMA: Ask Me Anything, a question-and-answer session for the public from the project side.
 
-AMM: Autonomous Market Making, a common technology in decentralized exchanges.
+AML: Anti Money Laundering, the abbreviation of anti-money laundering. In the fiat currency world, banks require information about the source of funds, proof of address, etc., while in the cryptocurrency world, service providers analyze on-chain transaction behavior and perform risk scoring for transactions.
 
-ape: Go all in.
+AMM: Autonomous Market Making, automated market makers, is a common technology for decentralized exchanges.
 
-Arbitrage: Taking advantage of price differences across platforms quickly and accurately.
+Ape: Derived from the English word "ape," it means "investing like a monkey" here, and is used to describe the rapid and risky investment behavior of investors or participants in a project or cryptocurrency.
 
-ATH: All Time High, the highest historical price.
+Approve: Authorization means authorization. Users who have operated DEX often see this word. It allows users who hold tokens to authorize a certain amount of money to a specified contract account by calling the approve method.
 
-ATL: All Time Low, the lowest historical price.
+APR: Annual percent rate, annual percentage rate, is the annual return rate before considering compound interest.
 
-APR: Annual Percentage Rate, the annual interest rate before considering compounding.
+APY: Annual Percentage Yield, a common way of interest in DeFi projects, which indicates the expected rate of return on the assets you hold in a year.
 
-APY: Annual Percentage Yield, the annual rate of return on assets held in DeFi projects.
+Arbitrage: Arbitrage, earning the difference across platforms, must be fast, accurate and ruthless.
 
-Approve: Authorize, typically seen by users of DEX platforms.
+ATA: Ask the Anything, another way of saying AMA.
 
-Airdrop: A project distributing tokens for free to increase awareness.
+ATH: All Time High, the highest price in history.
+
+ATL: All Time Low, the lowest price in history.
 
 ## B
 BIP: Bitcoin Improvement Proposal, suggesting changes to Bitcoin.
